@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-I'm a transitioning professional leveraging my background in accounting, statistics, and web development to pursue a career in market research. This portfolio is a showcase of my work and personal projects, highlighting my skills in market research, data analysis, and digital marketing.
+As an ex-accountant with a B.S. in Economics and Anthropology, I am passionate about consumer behavior and market research. I use tools like Python (Pandas) and SQL to perform data-driven analysis, including A/B testing, OLS regression, funnel analysis, and k-means clustering. I also have basic web development experience with Django for building online data collection tools. This portfolio is a showcase of my work and personal projects, highlighting my skills in converting complex data into actionable insights that help businesses make smarter decisions.
 
 ## [Visit the Live Portfolio Here!](https://najalhaj.github.io/portfolio/)<br>
 
