@@ -17,9 +17,9 @@ As an ex-accountant with a B.S. in Economics and Anthropology, I am passionate a
 
 #### Marketing Expertise
 
-* **Marketing Analytics:** Customer Segmentation, Funnel Analysis, Campaign Performance Analysis<br>
-* **Statistical Analysis:** Hypothesis & A/B Testing, Regression Analysis, Cross-Tabulation<br>
+* **Marketing Analytics:** Customer Segmentation, Advertising Campaign Performance Analysis, Funnel Analysis<br>
+* **Descriptive and Inferential Statistics:** Hypothesis & A/B Testing, Cross-Tabulation, Regression Analysis<br>
 * **Survey Tools:** Google Forms, SurveyMonkey, `Django` Forms<br>
-* **Advertising Analytics:** Google Analytics,  Looker Studio, Facebook Ads Manager<br>
+* **Web Analytics:** Google Analytics,  Looker Studio, Facebook Ads Manager<br>
 
 Thanks for stopping by! I hope you enjoy exploring my work.
